@@ -1,6 +1,9 @@
 package ClassesAndObjects;
 
 public class Module4Quiz {
+    public static void main(String[] args) {
+
+    }
     public  int minFunc(int n1, int n2){
         int min;
         if (n1 > n2)
